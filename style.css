@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(21, 25, 243);
+    color: white;
+}
+.heading{
+    font-size: medium;
+    width: 80%;
+}
+.s1, #a2, #e4{
+    color: chartreuse;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
